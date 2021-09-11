@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89495793432",
+    "project_id": "mjapp-f580b",
+    "storage_bucket": "mjapp-f580b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89495793432:android:7f3d8468a1f18d6d96b86d",
+        "android_client_info": {
+          "package_name": "com.mjapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89495793432-j1a5575ilp9fh5idpeq6atef3vl4t8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdvOpaB9B2CxG_z8Q2xb_mHAd2dJ8pQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89495793432-j1a5575ilp9fh5idpeq6atef3vl4t8bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
