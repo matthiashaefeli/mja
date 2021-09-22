@@ -17,7 +17,10 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.ProjectName",
+      "config": {
+      "googleMapsApiKey": "AIzaSyClrIng-ki4s4EY0zPO-1a3LfZwduhyioI"
     },
     "android": {
       "adaptiveIcon": {
