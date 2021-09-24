@@ -18,18 +18,25 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.ProjectName",
+      "bundleIdentifier": "mjapp.com",
       "config": {
       "googleMapsApiKey": "AIzaSyClrIng-ki4s4EY0zPO-1a3LfZwduhyioI"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "supportsTablet": true,
+      "bundleIdentifier": "mjapp.com",
+      "config": {
+        "googleMapsApiKey": "AIzaSyClrIng-ki4s4EY0zPO-1a3LfZwduhyioI"
+        }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     }
   }
 }
+
